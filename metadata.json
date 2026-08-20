@@ -1,0 +1,6 @@
+{
+  "name": "Global FinPulse | 全球核心财经情报与行情终端",
+  "description": "聚合路透社、彭博社、FT金融时报、华尔街日报、华尔街见闻、CNBC及财新等权威财经媒体，提供多源实时推送、行情走势、MarsConnect插件授权与全站多账户无缝登录集成，配备Gemini AI宏观情报研判体系。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
